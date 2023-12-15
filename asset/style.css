@@ -1,0 +1,72 @@
+body {
+    background-color: gold !important;
+}
+
+.elemento {
+    padding: 10px;
+}
+
+.contenido {
+    border: 1px solid gray;
+    
+}
+
+#divpokemons {
+    margin:0 auto;
+}
+
+.foto {
+    background-color: lightgray;
+    padding: 20px;
+}
+.props {
+    background-color: white;
+    padding: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: large;
+    text-align: left;
+    padding: 20px;
+    min-height: 55%;
+    height: 55%;
+}
+.idpok {
+    width: 60px;
+    font-size: smaller;
+    background-color: #b0afae;
+    padding: 2px;
+    margin-left: -20px;
+    margin-bottom: -20px;
+    color: rgb(97, 64, 64);
+}
+#tipos {
+    display: flex;
+}
+.tipo {
+    font-size: x-small;
+    font-weight: normal;
+    background-color: transparent;
+    padding: 2px;
+    margin-right: 5px;
+    margin-top: 5px;
+    color: rgb(97, 64, 64);
+    border: 1px solid rgb(97, 64, 64);
+    border-radius:3px;
+    text-transform: uppercase;
+}
+.evo {
+    font-weight: normal;
+    font-size: small;
+}
+.divevo {
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    border-left: 2px solid brown;
+    font-size: normal;
+    color:brown;
+}
+.lblevo {
+    font-size: large;
+    color:black;
+}
